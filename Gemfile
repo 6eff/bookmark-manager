@@ -5,6 +5,7 @@ ruby '2.3.1'
 gem 'sinatra'
 gem 'rack'
 gem 'rake'
+gem 'bcrypt'
 
 gem 'dm-migrations'
 gem 'dm-transactions'

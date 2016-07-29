@@ -140,6 +140,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt
   byebug
   capybara
   coveralls
