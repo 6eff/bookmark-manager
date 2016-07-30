@@ -6,6 +6,7 @@ gem 'sinatra'
 gem 'rack'
 gem 'rake'
 gem 'bcrypt'
+gem 'sinatra-flash'
 
 gem 'dm-migrations'
 gem 'dm-transactions'
